@@ -1,7 +1,7 @@
 # ACTIVIDAD-E2
-#programas en c++ de Britney Garcia 
-
-#informacion del autor
+# programas en c++ de Britney Garcia 
+===============================
+# informacion del autor
 
 autora: Britney Garcia Arroyo
 
